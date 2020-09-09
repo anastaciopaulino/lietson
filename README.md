@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello I'm [Lietson dos santos!](https://twitter.com/DosWime) 👋 Welcome to my profile
+My name is Lietson and ...:
+
+ - 📚 I really like to learn;
+ - 💻🎮 a player in his spare time
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lietson&layout=compact)](https://github.com/lietson/github-readme-stats)
+ 
+ ### Enjoy the repositories and good studies
+ #### always come back and follow me😉
 
 <!--
 **lietson/lietson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
