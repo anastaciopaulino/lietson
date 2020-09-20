@@ -1,4 +1,4 @@
-### Hello I'm [Lietson dos santos!](https://twitter.com/DosWime) 👋 Welcome to my profile
+### Hello I'm [Lietson dos santos!](https://twitter.com/DosLietson) 👋 Welcome to my profile
 My name is Lietson and ...:
 
  - 📚 I really like to learn;
@@ -14,7 +14,7 @@ My name is Lietson and ...:
 
 |  <a href="https://hritik5102.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Lietson dos santos](https://twitter.com/DosWime)**                                                                                |
+|       **[Lietson dos santos](https://twitter.com/DosLietson)**                                                                                |
 |<a href="https://twitter.com/DosWime"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/lietson"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://facebook.com/lietson.dossantos/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 
