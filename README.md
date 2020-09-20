@@ -3,11 +3,11 @@ My name is Lietson and ...:
 
  - 📚 I really like to learn;
  - 💻🎮 a player in his spare time
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lietson&layout=compact)](https://github.com/lietson/github-readme-stats)
 
 ### Languages and Tools :computer:
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/lietson)](https://github.com/lietson)[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/lietson)](https://github.com/lietson) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/lietson)](https://github.com/lietson) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/lietson)](https://github.com/lietson)[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https:https://github.com/lietson)](https://github.com/lietson)[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/lietson)](https://github.com/lietson)
 
 ### Reach out to me 👓
